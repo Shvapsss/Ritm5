@@ -1,0 +1,3 @@
+## Cart & Checkout {#intro}
+
+The cart&checkout feature allows you to sell your images. Images of an event can be sold with different product sets. Sell the wedding pictures with high prices and premium quality products but give away your thanksgiving images for free. Payment and shipping options are configurable for your needs. After placing an order customers can easily track the status of the order using your website.
